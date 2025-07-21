@@ -1,4 +1,4 @@
-# Prompt Engineer
+# Prompt Engineering
 
 پرامپت نوشتن هم هنره هم علم.
 یه پرامپت خوب ظرافت داره و هدفمنده.
