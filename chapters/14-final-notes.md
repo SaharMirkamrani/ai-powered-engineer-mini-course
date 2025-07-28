@@ -47,6 +47,7 @@ my-project/
 
  بعد از اون مهارت [Prompt Enginnering](09-prompt-engineering.md) مهمه که فرمولش رو حتما استفاده کنید توی نوشتن rule های کرسر و همچنین توی خود چت cursor.
 
+**براتون تمپلیت استارتر پروژه فول استک رو با این فایل هایی که لازمه (rules, prd, security check,...) درست کردم** [Fullstack AI Assisted starter](https://github.com/SaharMirkamrani/fullstack-ai-assisted-starter)
 ---
 
 *بخش ۱۵ ->[منابع](15-resources.md)* 
